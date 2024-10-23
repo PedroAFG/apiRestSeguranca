@@ -32,7 +32,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"login\": \"pedro\",\r\n    \"senha\": \"minhaSenhaéUMABOSTA\"\r\n}",
+					"raw": "{\r\n    \"login\": \"pedro\",\r\n    \"senha\": \"minhaSenhaéFORTE\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -60,7 +60,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"login\": \"pedro\",\r\n    \"senha\": \"minhaSenhaéUMABOSTA\"\r\n}",
+					"raw": "{\r\n    \"login\": \"pedro\",\r\n    \"senha\": \"minhaSenhaéUMASENHAFRACA\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
